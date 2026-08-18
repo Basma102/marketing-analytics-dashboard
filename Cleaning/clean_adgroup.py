@@ -73,4 +73,4 @@ try:
     print("✅ Fichiers nettoyés et sauvegardés avec succès dans /data")
 
 except FileNotFoundError:
-    print("⚠️ Fichiers bruts non trouvés. Ce script est prêt pour une exécution locale avec données.")
+    print("⚠️ Fichiers bruts non trouvés.")
