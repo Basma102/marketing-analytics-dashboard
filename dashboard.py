@@ -35,7 +35,7 @@ PALETTE = [
 # CHEMIN DES CSV
 
 
-BASE_PATH = "C:/Users/hp/OneDrive/Bureau/stage.trt/fact"
+BASE_PATH = "data"
 
 
 # MODULES
